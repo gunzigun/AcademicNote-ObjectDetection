@@ -1,0 +1,2 @@
+# AcademicNote-ObjectDetection
+关于基于卷积神经网络的目标检测摘录
